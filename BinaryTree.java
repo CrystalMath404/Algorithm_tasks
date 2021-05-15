@@ -1,7 +1,7 @@
 import java.lang. *;
 
 public class BinaryTree {
-    int value;
+    int value
     BinaryTree left = null;
     BinaryTree right = null;
     BinaryTree parent = null;
